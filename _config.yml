@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 name: Xinyi Zhu, CS5520
 markdown: kramdown
+permalink: /CS5520-Project/:year/:month/:day/:title
