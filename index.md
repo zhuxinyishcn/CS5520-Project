@@ -10,7 +10,9 @@ title: Xinyi Zhu, Horrible Cop
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
-	</ul> 
+	</ul>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhuxinyishcn/CS5520-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
