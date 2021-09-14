@@ -2,16 +2,18 @@
 layout: default
 title: Xinyi Zhu
 ---
- 
+
 ## Posts
 
 <ul class="posts">
 
-	  {% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> » <a href="/cs5520_project{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+      {% for post in site.posts %}
+    	<li><span>{{ post.date | date_to_string }}</span> » <a href="/CS5520-Project
 
+{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+
+</ul>
 
 ## Welcome to GitHub Pages
 
@@ -27,7 +29,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
