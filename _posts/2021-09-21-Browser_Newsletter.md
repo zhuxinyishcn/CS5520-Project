@@ -16,7 +16,7 @@ date: 2021-09-20
     - Newsletter Content
     - Privacy statement
     - Mobile Phone/Laptop/Website?
-- Information:
-  When the latest news will release
-  How much news will release each week?
-  In each newsletter, the information type about the newsletter(picture, URL, text)
+  - Information:
+    - When the latest news will release
+    - How much news will release each week?
+    - In each newsletter, the information type about the newsletter(picture, URL, text)
