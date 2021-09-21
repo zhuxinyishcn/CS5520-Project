@@ -18,9 +18,8 @@ date: 2021-09-20
 | book a flight ticket       | test for covid test     | send an email              | submit a maintenance ticket  | pay a parking ticket            |
 | study new vocabulary       | mark on the calendar    | sell used clothes          | send texts to friends        | browser newsletter              |
 
+## Step 2: Further explore at least 3 of these problems
 
-
-
-
-
-
+- Problem 1: [**Browser Newsletter**](https://zhuxinyishcn.github.io/CS5520-Project/CS5520-Project/2021/09/20/Browser_Newsletter)
+- Problem 2: [**Study New Vocabulary**](https://zhuxinyishcn.github.io/CS5520-Project/CS5520-Project/2021/09/20/Study_New_Vocabulary)
+- Problem 3: [**Sell Used Clothes**](https://zhuxinyishcn.github.io/CS5520-Project/CS5520-Project/2021/09/20/Sell_Used_Clothes)
