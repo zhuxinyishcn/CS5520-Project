@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brainstorm Problems for Final Project'
+title: 'Brainstorm Problems for Final Project: Generate a giant list'
 date: 2021-09-20
 ---
 
