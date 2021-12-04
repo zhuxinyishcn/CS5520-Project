@@ -22,7 +22,7 @@ date: 2021-11-12
 1. I probably will add an OAuth pipeline for user authentication
 2. Save user information and display it on the login page.
 
-## Add ability to reorder tasks by dragging and dropping
+## Add ability to "share"/export a ToDo to another app "share"/export a ToDo to another app
 
-1. User can dragging to reorganize the todo Item
-2. User can put the most important thing at the front the put least important at last.
+1. User can share the todo Item with his friends
+2. User can put the most important thing as an SMS message to his contact to remind him.
