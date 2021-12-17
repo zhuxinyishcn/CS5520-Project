@@ -30,10 +30,10 @@ date: 2021-12-12
 4. User could swipe right to complete delete/ complete this task in the list
 5. All todo items save into the database and persistent by the database so a user won't lose their data
 6. Users could also update their title and details from the list in case task changes.
-   <img src="https://raw.githubusercontent.com/zhuxinyishcn/CS5520-Project/gh-pages/_screenShot/final_todo_2.PNG" alt="drawing" width="300"/>
-   <img src="https://raw.githubusercontent.com/zhuxinyishcn/CS5520-Project/gh-pages/_screenShot/final_todo_3.PNG" alt="drawing" width="300"/>
+   <img src="https://raw.githubusercontent.com/zhuxinyishcn/CS5520-Project/gh-pages/_screenShot/final_todo_10.PNG" alt="drawing" width="300"/>
+   <img src="https://raw.githubusercontent.com/zhuxinyishcn/CS5520-Project/gh-pages/_screenShot/final_todo_11.PNG" alt="drawing" width="300"/>
    ### Below is a small demo video to understand
-   [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/zhuxinyishcn/CS5520-Project/gh-pages/_screenShot/final_todo_2.PNG)](https://youtu.be/bGLCrAs3o3A)
+   [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/zhuxinyishcn/CS5520-Project/gh-pages/_screenShot/final_todo_2.PNG)](https://youtu.be/Uay1g29yA40)
 
 ## Notification Callback
 
@@ -65,4 +65,4 @@ date: 2021-12-12
 
 ## Issues
 
-- Dragging and dropping in the list does not perserve the position after opertrration.
+- Dragging and dropping in the list does not preserve the position after operation.
