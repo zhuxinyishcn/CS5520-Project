@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Project: Todo: XYZ"
+title: 'Final Project: Todo: XYZ'
 date: 2021-12-12
 ---
 
@@ -66,3 +66,10 @@ date: 2021-12-12
 ## Issues
 
 - Dragging and dropping in the list does not preserve the position after operation.
+
+## Future Works
+
+1. Incorporate with firebase to provide cloud serivice
+2. Deployed backend to cloud platform
+3. Consider to have a distributed system design when large number of user access
+4. Fix Dragging and dropping in the list does not preserve the position after operation by and field in the database
